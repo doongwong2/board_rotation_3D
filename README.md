@@ -1,5 +1,5 @@
-# board_rotation_3D
-my board rotating game made in unity 3d  
+# board_tilting_3D
+my board tilting game made in unity 3d  
 
 Library file not included to reduce file size.  
 
